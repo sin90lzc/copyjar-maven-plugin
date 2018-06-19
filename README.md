@@ -1,0 +1,1 @@
+# copyjar-maven-plugin
